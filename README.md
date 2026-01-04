@@ -64,12 +64,13 @@ Hands-on learning through TryHackMe, attack simulations, and self-driven labs.
 ## 📈 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Bhavith-fs&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavith-fs&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800" />
 </p>
+
 
 ---
 

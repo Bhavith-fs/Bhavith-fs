@@ -39,8 +39,12 @@ Security-first mindset
 Web-based platform that analyzes and ranks resumes using AI & NLP.  
 Applies system design, networking, and security principles.
 
+**Guessify**  
+Interactive web-based number guessing game that develops logical thinking, number intuition, and real-time decision-making skills with instant feedback.
+
 **Cybersecurity Labs & Practice**  
 Hands-on learning through TryHackMe, attack simulations, and self-driven labs.
+
 
 ---
 

@@ -59,14 +59,17 @@ Hands-on learning through **TryHackMe**, attack simulations, and self-driven lab
 
 ## 📚 Learning & Certifications
 
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Labs-blue?style=for-the-badge)](https://tryhackme.com) 
-[![EC-Council](https://img.shields.io/badge/EC--Council-Cybersecurity-orange?style=for-the-badge)](https://www.eccouncil.org/) 
-[![CAHJ](https://img.shields.io/badge/CAHJ-Jr-Cyan?style=for-the-badge)](#)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-Labs-1f2937?style=for-the-badge&logo=tryhackme&logoColor=white)
+![EC-Council](https://img.shields.io/badge/EC--Council-Cybersecurity-ef4444?style=for-the-badge)
+![CAHJ](https://img.shields.io/badge/CAHJ-Junior-22c55e?style=for-the-badge)
+![Nmap](https://img.shields.io/badge/Nmap-Network%20Scanning-004f9f?style=for-the-badge&logo=nmap&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-Web%20Security-ff6f00?style=for-the-badge&logo=burpsuite&logoColor=white)
 
-- Active participation in **TryHackMe hands-on labs**  
-- Self-learning via real-world scenarios, documentation, and research  
-- Foundational cybersecurity exposure through **EC-Council courses**  
-- Currently studying **Certified API Hacking – Junior (CAHJ)**  
+- Active participation in **TryHackMe hands-on labs**, focusing on real-world attack and defense scenarios  
+- Self-learning through **practical experimentation, documentation, and security research**  
+- Foundational cybersecurity exposure through **EC-Council cybersecurity programs**  
+- Currently pursuing **Certified API Hacking – Junior (CAHJ)**  
+- Actively practicing industry-standard tools such as **Burp Suite** and **Nmap**
 
 ---
 

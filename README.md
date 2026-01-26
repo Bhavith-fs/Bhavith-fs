@@ -51,6 +51,10 @@ Web-based platform that analyzes and ranks resumes using **AI & NLP**.
 [![JS](https://img.shields.io/badge/JavaScript-ES6-yellow?style=for-the-badge)](#) [![Web](https://img.shields.io/badge/Web-Frontend-lightgrey?style=for-the-badge)](#)  
 Interactive web-based number guessing game that develops **logical thinking, number intuition, and real-time decision-making skills** with instant feedback.
 
+### **💸 SpendWise – Daily Expense Tracker**
+[![JavaScript](https://img.shields.io/badge/JavaScript-Vanilla-yellow?style=for-the-badge)](#) [![Web](https://img.shields.io/badge/Web-Frontend-lightgrey?style=for-the-badge)](#)  
+Responsive web application for tracking daily expenses with **category-wise breakdown, spending summaries, and persistent localStorage support**, helping users build better financial habits while strengthening **DOM manipulation and core JavaScript skills**.
+
 ### **🛡️ Cybersecurity Labs & Practice**
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-HandsOn-red?style=for-the-badge)](#) [![Labs](https://img.shields.io/badge/Labs-Practical-green?style=for-the-badge)](#)  
 Hands-on learning through **TryHackMe**, attack simulations, and self-driven labs.

@@ -13,15 +13,6 @@ Security Enthusiast | Research-Oriented Learner
 
 ---
 
-## 🛡️ Focus Areas
-
-- **Cybersecurity** – Strong fundamentals with hands-on exposure to real-world attack surfaces  
-- **Network Security** – Protocols, architectures, and defensive mechanisms  
-- **Offensive Security** – Ethical penetration testing, vulnerability analysis, exploitation basics  
-- **Research & Learning** – Security labs, documentation, experimentation across domains  
-
----
-
 ## 🛠️ Tech Stack & Tools
 
 ### Programming Languages
@@ -59,12 +50,6 @@ Responsive web application for tracking daily expenses with **category-wise brea
 [![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Phishing%20Detection-blue?style=for-the-badge)](#) [![Python](https://img.shields.io/badge/Python-Flask-3776AB?style=for-the-badge)](#)  
 Cybersecurity-focused web application that detects **phishing URLs and malicious email content** using **rule-based and heuristic analysis**, providing **risk scores and detailed indicators** while applying real-world **security analysis and threat detection concepts**.
 
-
-### **🛡️ Cybersecurity Labs & Practice**
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-HandsOn-red?style=for-the-badge)](#) [![Labs](https://img.shields.io/badge/Labs-Practical-green?style=for-the-badge)](#)  
-Hands-on learning through **TryHackMe**, attack simulations, and self-driven labs.
-
----
 
 ## 📚 Learning & Certifications
 

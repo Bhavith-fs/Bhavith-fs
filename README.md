@@ -1,7 +1,6 @@
 # 👋 Hi, I’m Bhavith Madhav
 
-BTech Cybersecurity & Networking Student  
-Security Enthusiast | Research-Oriented Learner  
+BTech Cybersecurity & Networking Security Enthusiast | Research-Oriented Learner  
 **Security-first mindset** 🔐
 
 <div align="center">

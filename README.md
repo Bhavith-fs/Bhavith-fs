@@ -15,9 +15,9 @@ Security Enthusiast | Research-Oriented Learner
 
 ## 🛠️ Tech Stack & Tools
 
-### Programming Languages
+### Programming & Scripting Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,bash" height="30"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,bash,html,css,js" height="30"/>
 </p>
 
 ### Operating Systems & Security Platforms
@@ -29,9 +29,14 @@ Security Enthusiast | Research-Oriented Learner
   <img src="https://img.shields.io/badge/ICS%20Security-111111?style=for-the-badge&logo=siemens&logoColor=white" height="30"/>
 </p>
 
----
-
 ## 🚀 Highlight Projects
+### **🛡️ PhishGuard – Phishing Detection Tool** - https://phishguard-g1yiewzzf-bhaviths-projects-9cf5e917.vercel.app/
+[![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Phishing%20Detection-blue?style=for-the-badge)](#) [![Python](https://img.shields.io/badge/Python-Flask-3776AB?style=for-the-badge)](#)  
+Cybersecurity-focused web application that detects **phishing URLs and malicious email content** using **rule-based and heuristic analysis**, providing **risk scores and detailed indicators** while applying real-world **security analysis and threat detection concepts**.
+
+### **💸 SpendWise – Daily Expense Tracker** - https://bhavith-fs.github.io/Spendwise-ExpenseTracker/
+[![JavaScript](https://img.shields.io/badge/JavaScript-Vanilla-yellow?style=for-the-badge)](#) [![Web](https://img.shields.io/badge/Web-Frontend-lightgrey?style=for-the-badge)](#)  
+Responsive web application for tracking daily expenses with **category-wise breakdown, spending summaries, and persistent localStorage support**, helping users build better financial habits while strengthening **DOM manipulation and core JavaScript skills**.
 
 ### **💼 Resume Ranker**
 [![AI](https://img.shields.io/badge/AI-NLP-blue?style=for-the-badge)](#) [![Web](https://img.shields.io/badge/Web-Frontend-yellow?style=for-the-badge)](#)  
@@ -41,15 +46,6 @@ Web-based platform that analyzes and ranks resumes using **AI & NLP**.
 ### **🎯 Guessify**
 [![JS](https://img.shields.io/badge/JavaScript-ES6-yellow?style=for-the-badge)](#) [![Web](https://img.shields.io/badge/Web-Frontend-lightgrey?style=for-the-badge)](#)  
 Interactive web-based number guessing game that develops **logical thinking, number intuition, and real-time decision-making skills** with instant feedback.
-
-### **💸 SpendWise – Daily Expense Tracker**
-[![JavaScript](https://img.shields.io/badge/JavaScript-Vanilla-yellow?style=for-the-badge)](#) [![Web](https://img.shields.io/badge/Web-Frontend-lightgrey?style=for-the-badge)](#)  
-Responsive web application for tracking daily expenses with **category-wise breakdown, spending summaries, and persistent localStorage support**, helping users build better financial habits while strengthening **DOM manipulation and core JavaScript skills**.
-
-### **🛡️ PhishGuard – Phishing Detection Tool**
-[![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Phishing%20Detection-blue?style=for-the-badge)](#) [![Python](https://img.shields.io/badge/Python-Flask-3776AB?style=for-the-badge)](#)  
-Cybersecurity-focused web application that detects **phishing URLs and malicious email content** using **rule-based and heuristic analysis**, providing **risk scores and detailed indicators** while applying real-world **security analysis and threat detection concepts**.
-
 
 ## 📚 Learning & Certifications
 

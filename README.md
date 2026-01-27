@@ -55,6 +55,11 @@ Interactive web-based number guessing game that develops **logical thinking, num
 [![JavaScript](https://img.shields.io/badge/JavaScript-Vanilla-yellow?style=for-the-badge)](#) [![Web](https://img.shields.io/badge/Web-Frontend-lightgrey?style=for-the-badge)](#)  
 Responsive web application for tracking daily expenses with **category-wise breakdown, spending summaries, and persistent localStorage support**, helping users build better financial habits while strengthening **DOM manipulation and core JavaScript skills**.
 
+### **🛡️ PhishGuard – Phishing Detection Tool**
+[![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Phishing%20Detection-blue?style=for-the-badge)](#) [![Python](https://img.shields.io/badge/Python-Flask-3776AB?style=for-the-badge)](#)  
+Cybersecurity-focused web application that detects **phishing URLs and malicious email content** using **rule-based and heuristic analysis**, providing **risk scores and detailed indicators** while applying real-world **security analysis and threat detection concepts**.
+
+
 ### **🛡️ Cybersecurity Labs & Practice**
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-HandsOn-red?style=for-the-badge)](#) [![Labs](https://img.shields.io/badge/Labs-Practical-green?style=for-the-badge)](#)  
 Hands-on learning through **TryHackMe**, attack simulations, and self-driven labs.

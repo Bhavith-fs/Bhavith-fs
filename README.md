@@ -38,7 +38,7 @@ BTech Cybersecurity & Networking Security Enthusiast | Research-Oriented Learner
 [![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Phishing%20Detection-blue?style=for-the-badge)](#)
 [![Python](https://img.shields.io/badge/Python-Flask-3776AB?style=for-the-badge)](#)
 
-Cybersecurity-focused web application that detects **phishing URLs and malicious email content** using **rule-based and heuristic analysis**, providing **risk scores and detailed indicators** while applying real-world **security analysis and threat detection concepts**.
+Cybersecurity-focused web application that detects **phishing URLs and malicious email content** using **rule-based and heuristic analysis**, providing **risk scores and detailed indicators** while applying real-world **security analysis and threat detection concepts**. 
 
 ---
 

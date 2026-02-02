@@ -32,16 +32,6 @@ BTech Cybersecurity & Networking Security Enthusiast | Research-Oriented Learner
 
 ## 🚀 Highlight Projects
 
-### 🛡️ **PhishGuard – Phishing Detection Tool**
-🔗 **Live Demo:** https://phishguard-pink.vercel.app
-
-[![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Phishing%20Detection-blue?style=for-the-badge)](#)
-[![Python](https://img.shields.io/badge/Python-Flask-3776AB?style=for-the-badge)](#)
-
-Cybersecurity-focused web application that detects **phishing URLs and malicious email content** using **rule-based and heuristic analysis**, providing **risk scores and detailed indicators** while applying real-world **security analysis and threat detection concepts**. 
-
----
-
 ### 🎯 **TestNet – Professional Focus Assistant**
 🔗 **Live Demo:** https://bhavith-fs.github.io/TaskNet
 
@@ -52,6 +42,16 @@ Cybersecurity-focused web application that detects **phishing URLs and malicious
 
 Browser-based productivity tool that helps users **manage tasks, maintain focus, and track progress**.  
 Includes **task management, focus timers, accountability check-ins, and distraction awareness**, with a clean, professional interface for **enhanced productivity and disciplined workflows**.
+
+---
+
+### 🛡️ **PhishGuard – Phishing Detection Tool**
+🔗 **Live Demo:** https://phishguard-pink.vercel.app
+
+[![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Phishing%20Detection-blue?style=for-the-badge)](#)
+[![Python](https://img.shields.io/badge/Python-Flask-3776AB?style=for-the-badge)](#)
+
+Cybersecurity-focused web application that detects **phishing URLs and malicious email content** using **rule-based and heuristic analysis**, providing **risk scores and detailed indicators** while applying real-world **security analysis and threat detection concepts**. 
 
 ### 💸 **SpendWise – Daily Expense Tracker**
 🔗 **Live Demo:** https://bhavith-fs.github.io/Spendwise-ExpenseTracker/

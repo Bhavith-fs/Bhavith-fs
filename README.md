@@ -42,6 +42,17 @@ Cybersecurity-focused web application that detects **phishing URLs and malicious
 
 ---
 
+### 🎯 **TestNet – Professional Focus Assistant**
+🔗 **Live Demo:** https://bhavith-fs.github.io/TaskNet
+
+[![Productivity](https://img.shields.io/badge/Productivity-Focus%20Management-blue?style=for-the-badge)](#)
+[![JavaScript](https://img.shields.io/badge/JS-Vanilla-yellow?style=for-the-badge)](#)
+[![CSS](https://img.shields.io/badge/CSS-Design-purple?style=for-the-badge)](#)
+[![Responsive](https://img.shields.io/badge/Responsive-Mobile%20Friendly-green?style=for-the-badge)]
+
+Browser-based productivity tool that helps users **manage tasks, maintain focus, and track progress**.  
+Includes **task management, focus timers, accountability check-ins, and distraction awareness**, with a clean, professional interface for **enhanced productivity and disciplined workflows**.
+
 ### 💸 **SpendWise – Daily Expense Tracker**
 🔗 **Live Demo:** https://bhavith-fs.github.io/Spendwise-ExpenseTracker/
 

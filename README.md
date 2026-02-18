@@ -64,6 +64,8 @@ Responsive web application for tracking daily expenses with **category-wise brea
 ---
 
 ### 💼 **Resume Ranker**
+🔗 **Live Demo:** https://resumeranker-alpha.vercel.app/
+
 [![AI](https://img.shields.io/badge/AI-NLP-blue?style=for-the-badge)](#)
 [![Web](https://img.shields.io/badge/Web-Frontend-yellow?style=for-the-badge)](#)
 

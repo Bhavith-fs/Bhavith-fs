@@ -121,28 +121,3 @@ Interactive web-based number guessing game that enhances **logical thinking, num
 ---
 
 > **Security is not a toolset. It’s a mindset. 🔐**
-
-## 🚀 Highlight Projects
-
-| 🎯 **TestNet – Professional Focus Assistant** | 🛡️ **PhishGuard – Phishing Detection Tool** |
-|----------------------------------------------|---------------------------------------------|
-| 🔗 **Live Demo:** https://bhavith-fs.github.io/TaskNet | 🔗 **Live Demo:** https://phishguard-pink.vercel.app |
-| [![Productivity](https://img.shields.io/badge/Productivity-Focus%20Management-blue?style=for-the-badge)](#)<br>[![JavaScript](https://img.shields.io/badge/JS-Vanilla-yellow?style=for-the-badge)](#)<br>[![CSS](https://img.shields.io/badge/CSS-Design-purple?style=for-the-badge)](#)<br>[![Responsive](https://img.shields.io/badge/Responsive-Mobile%20Friendly-green?style=for-the-badge)](#) | [![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Phishing%20Detection-blue?style=for-the-badge)](#)<br>[![Python](https://img.shields.io/badge/Python-Flask-3776AB?style=for-the-badge)](#) |
-| Browser-based productivity tool that helps users **manage tasks, maintain focus, and track progress**.<br><br>Includes **task management, focus timers, accountability check-ins, and distraction awareness**, with a clean, professional interface for **enhanced productivity and disciplined workflows**. | Cybersecurity-focused web application that detects **phishing URLs and malicious email content** using **rule-based and heuristic analysis**, providing **risk scores and detailed indicators** while applying real-world **security analysis and threat detection concepts**. |
-
----
-
-| 💸 **SpendWise – Daily Expense Tracker** | 💼 **Resume Ranker** |
-|------------------------------------------|----------------------|
-| 🔗 **Live Demo:** https://bhavith-fs.github.io/Spendwise-ExpenseTracker/ | 🔗 **Live Demo:** https://resumeranker-alpha.vercel.app/ |
-| [![JavaScript](https://img.shields.io/badge/JavaScript-Vanilla-yellow?style=for-the-badge)](#)<br>[![Web](https://img.shields.io/badge/Web-Frontend-lightgrey?style=for-the-badge)](#) | [![AI](https://img.shields.io/badge/AI-NLP-blue?style=for-the-badge)](#)<br>[![Web](https://img.shields.io/badge/Web-Frontend-yellow?style=for-the-badge)](#) |
-| Responsive web application for tracking daily expenses with **category-wise breakdown, spending summaries, and persistent localStorage support**, helping users build better financial habits while strengthening **DOM manipulation and core JavaScript skills**. | Web-based platform that analyzes and ranks resumes using **AI & NLP**, applying **system design, networking, and security principles** for smarter candidate shortlisting. |
-
----
-
-| 🎯 **Guessify** |  |
-|----------------|--|
-| [![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?style=for-the-badge)](#)<br>[![Web](https://img.shields.io/badge/Web-Frontend-lightgrey?style=for-the-badge)](#) |  |
-| Interactive web-based number guessing game that enhances **logical thinking, number intuition, and real-time decision-making skills** with instant feedback. |  |
-
-
